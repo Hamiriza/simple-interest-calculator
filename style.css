@@ -1,0 +1,31 @@
+body {
+    background-color:black;
+    font-family:arial;
+    color:white;
+}
+h1{
+    color:grey;
+    font-family:Verdana;
+}
+.maindiv{
+    background-color: white;
+    color: black;
+    width: 500px;
+    padding: 20px;
+    border-radius: 25px;
+    margin:auto
+}
+.content{
+    padding-left: 120px;
+}
+input#principal{
+    margin-left: 50px;
+}
+input#rate{
+    margin-left: 15px;
+}
+select{
+    margin-left: 20px;
+}
+
+
